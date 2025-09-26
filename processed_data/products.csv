@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Product_Category,Product_Brand,Product_Type
+1,Cycling shorts,Clothing,Nike,Shorts
+2,Lenovo Tab,Electronics,Samsung,Tablet
+3,Sports equipment,Books,Penguin Books,Children's
+4,Utility knife,Home Decor,Home Depot,Tools
+5,Chocolate cookies,Grocery,Nestle,Chocolate
+6,Lenovo Tab,Electronics,Apple,Tablet
+7,QLED TV,Electronics,Samsung,Television
+8,Dress shirt,Clothing,Zara,Shirt
+9,Dark chocolate,Grocery,Nestle,Chocolate
+10,Candles,Home Decor,Home Depot,Decorations
+11,Screwdriver set,Home Decor,Home Depot,Tools
+12,Science,Books,Random House,Non-Fiction
+13,Bottled water,Grocery,Coca-Cola,Water
+14,Fruit snacks,Grocery,Nestle,Snacks
+15,V-neck tee,Clothing,Adidas,T-shirt
+16,Drama,Books,Random House,Literature
+17,Flavored water,Grocery,Pepsi,Water
+18,Samsung Galaxy Tab,Electronics,Apple,Tablet
+19,Orange juice,Grocery,Coca-Cola,Juice
+20,Bookshelf,Home Decor,IKEA,Furniture
+21,Affogato,Grocery,Nestle,Coffee
+22,Business,Books,HarperCollins,Non-Fiction
+23,Self-help,Books,Penguin Books,Non-Fiction
+24,Sink,Home Decor,Bed Bath & Beyond,Bathroom
+25,Grape juice,Grocery,Coca-Cola,Juice
+26,Stove,Home Decor,Bed Bath & Beyond,Kitchen
+27,Huawei P,Electronics,Samsung,Smartphone
+28,Amazon Fire Tablet,Electronics,Apple,Tablet
+29,Curtains,Home Decor,Home Depot,Decorations
+30,Pomegranate juice,Grocery,Coca-Cola,Juice
+31,Running shoes,Clothing,Adidas,Shoes
+32,Political thriller,Books,HarperCollins,Thriller
+33,Curtains,Home Decor,IKEA,Decorations
+34,Google Pixel,Electronics,Samsung,Smartphone
+35,Chocolate mousse,Grocery,Nestle,Chocolate
+36,Vases,Home Decor,IKEA,Decorations
+37,Henley shirt,Clothing,Zara,Shirt
+38,Toys,Books,Penguin Books,Children's
+39,Iced tea,Grocery,Pepsi,Soft Drink
+40,Running shoes,Clothing,Adidas,Shoes
+41,Apple juice,Grocery,Coca-Cola,Juice
+42,Drama,Books,Random House,Literature
+43,Microsoft Surface Laptop,Electronics,Apple,Laptop
+44,Desk,Home Decor,IKEA,Furniture
+45,Bodycon dress,Clothing,Zara,Dress
+46,Sports headphones,Electronics,Sony,Headphones
+47,Pendant lights,Home Decor,IKEA,Lighting
+48,Clocks,Home Decor,Home Depot,Decorations
+49,Comforter,Home Decor,Bed Bath & Beyond,Bedding
+50,Peacoat,Clothing,Adidas,Jacket
+51,Bed,Home Decor,Home Depot,Furniture
+52,White chocolate,Grocery,Nestle,Chocolate
+53,Android TV,Electronics,Samsung,Television
+54,Studio headphones,Electronics,Sony,Headphones
+55,Sneakers,Clothing,Nike,Shoes
+56,Studio headphones,Electronics,Sony,Headphones
+57,Sculptures,Home Decor,Home Depot,Decorations
+58,Cream soda,Grocery,Pepsi,Soft Drink
+59,Drama,Books,Random House,Literature
+60,History,Books,Random House,Non-Fiction
+61,Stove,Home Decor,Bed Bath & Beyond,Kitchen
+62,Pliers,Home Decor,Home Depot,Tools
+63,Oxfords,Clothing,Nike,Shoes
+64,Short stories,Books,Random House,Literature
+65,Dining table,Home Decor,Home Depot,Furniture
+66,Cooking,Books,HarperCollins,Non-Fiction
+67,Sports headphones,Electronics,Sony,Headphones
+68,Wall art,Home Decor,IKEA,Decorations
+69,Dress shirt,Clothing,Zara,Shirt
+70,Memoir,Books,Random House,Non-Fiction
+71,Cream soda,Grocery,Coca-Cola,Soft Drink
+72,Amazon Fire Tablet,Electronics,Samsung,Tablet
+73,Maxi dress,Clothing,Zara,Dress
+74,LG Gram,Electronics,Apple,Laptop
+75,Dishwasher,Home Decor,Bed Bath & Beyond,Kitchen
+76,Cranberry juice,Grocery,Pepsi,Juice
+77,Crime,Books,HarperCollins,Thriller
+78,Pillowcase set,Home Decor,Bed Bath & Beyond,Bedding
+79,Shower curtain,Home Decor,Bed Bath & Beyond,Bathroom
+80,Samsung Galaxy,Electronics,Sony,Smartphone
+81,Curved TV,Electronics,Sony,Television
+82,DJ headphones,Electronics,Sony,Headphones
+83,Button-down shirt,Clothing,Zara,Shirt
+84,Purified water,Grocery,Coca-Cola,Water
+85,Puffer jacket,Clothing,Adidas,Jacket
+86,Fantasy,Books,Penguin Books,Fiction
+87,Microsoft Surface Laptop,Electronics,Apple,Laptop
+88,Adventure,Books,Penguin Books,Fiction
+89,Popcorn,Grocery,Nestle,Snacks
+90,Nuts,Grocery,Nestle,Snacks
+91,Detective,Books,HarperCollins,Thriller
+92,iPhone,Electronics,Sony,Smartphone
+93,LG G,Electronics,Sony,Smartphone
+94,Chocolate-covered fruits,Grocery,Nestle,Chocolate
+95,Chino shorts,Clothing,Nike,Shorts
+96,Distilled water,Grocery,Pepsi,Water
+97,Literary fiction,Books,Penguin Books,Fiction
+98,Grape soda,Grocery,Pepsi,Soft Drink
+99,T-shirt,Clothing,Zara,Shirt
+100,Literary fiction,Books,Penguin Books,Fiction
+101,Literary fiction,Books,Random House,Fiction
+102,Cheese snacks,Grocery,Nestle,Snacks
+103,Chocolate-covered fruits,Grocery,Nestle,Chocolate
+104,Towel rack,Home Decor,Bed Bath & Beyond,Bathroom
+105,Blanket,Home Decor,Bed Bath & Beyond,Bedding
+106,Literary fiction,Books,Random House,Literature
+107,iPhone,Electronics,Sony,Smartphone
+108,Coffee table,Home Decor,Home Depot,Furniture
+109,OLED TV,Electronics,Samsung,Television
+110,Pineapple juice,Grocery,Coca-Cola,Juice
+111,HDR TV,Electronics,Sony,Television
+112,Travel,Books,Random House,Non-Fiction
+113,LG G,Electronics,Apple,Smartphone
+114,Crew neck tee,Clothing,Adidas,T-shirt
+115,Grapefruit juice,Grocery,Coca-Cola,Juice
+116,Xiaomi Mi,Electronics,Samsung,Smartphone
+117,Root beer,Grocery,Coca-Cola,Soft Drink
+118,Track lighting,Home Decor,IKEA,Lighting
+119,Razer Blade,Electronics,Apple,Laptop
+120,Samsung Notebook,Electronics,Apple,Laptop
+121,Milk chocolate,Grocery,Nestle,Chocolate
+122,Nuts,Grocery,Nestle,Snacks
+123,Pineapple juice,Grocery,Coca-Cola,Juice
+124,Varsity jacket,Clothing,Adidas,Jacket
+125,HDR TV,Electronics,Samsung,Television
+126,Coffee table,Home Decor,IKEA,Furniture
+127,Literary fiction,Books,Random House,Literature
+128,Decorative pillows,Home Decor,IKEA,Decorations
+129,Crop top,Clothing,Adidas,T-shirt
+130,Clothing,Books,Penguin Books,Children's
+131,Purified water,Grocery,Coca-Cola,Water
+132,Lemon-lime soda,Grocery,Pepsi,Soft Drink
+133,Pomegranate juice,Grocery,Coca-Cola,Juice
+134,Dresser,Home Decor,Home Depot,Furniture
+135,Ceiling lights,Home Decor,IKEA,Lighting
+136,Loafers,Clothing,Adidas,Shoes
+137,LCD TV,Electronics,Samsung,Television
+138,Bathtub,Home Decor,Bed Bath & Beyond,Bathroom
+139,Dystopian,Books,Random House,Fiction
+140,Bed sheet set,Home Decor,Bed Bath & Beyond,Bedding
+141,Literary fiction,Books,Random House,Fiction
+142,Curtains,Home Decor,Home Depot,Decorations
+143,Sheath dress,Clothing,Zara,Dress
+144,Over-ear headphones,Electronics,Sony,Headphones
+145,Desk,Home Decor,IKEA,Furniture
+146,Varsity jacket,Clothing,Adidas,Jacket
+147,Electric kettle,Home Decor,Bed Bath & Beyond,Kitchen
+148,Mirror,Home Decor,Bed Bath & Beyond,Bathroom
+149,Grape juice,Grocery,Coca-Cola,Juice
+150,Adventure,Books,Penguin Books,Fiction
+151,Android TV,Electronics,Samsung,Television
+152,Puzzles,Books,Penguin Books,Children's
+153,Detective,Books,HarperCollins,Thriller
+154,Bookshelf,Home Decor,Home Depot,Furniture
+155,Polo shirt,Clothing,Zara,Shirt
+156,Peacoat,Clothing,Adidas,Jacket
+157,On-ear headphones,Electronics,Sony,Headphones
+158,Dress shirt,Clothing,Zara,Shirt
+159,Horror,Books,Penguin Books,Fiction
+160,Art supplies,Books,Penguin Books,Children's
+161,Bootcut jeans,Clothing,Zara,Jeans
+162,Political thriller,Books,HarperCollins,Thriller
+163,iPhone,Electronics,Sony,Smartphone
+164,Sofa,Home Decor,Home Depot,Furniture
+165,Art supplies,Books,Penguin Books,Children's
+166,Sparkling water,Grocery,Pepsi,Water
+167,Grape juice,Grocery,Coca-Cola,Juice
+168,Sculptures,Home Decor,IKEA,Decorations
+169,Cargo shorts,Clothing,Nike,Shorts
+170,Microsoft Surface,Electronics,Samsung,Tablet
+171,Chocolate bars,Grocery,Nestle,Chocolate
+172,iPhone,Electronics,Sony,Smartphone
+173,Loafers,Clothing,Adidas,Shoes
+174,HDR TV,Electronics,Sony,Television
+175,Sparkling water,Grocery,Pepsi,Water
+176,Essays,Books,Random House,Literature
+177,Affogato,Grocery,Nestle,Coffee
+178,Tank top,Clothing,Zara,Shirt
+179,Food processor,Home Decor,Bed Bath & Beyond,Kitchen
+180,Toys,Books,Penguin Books,Children's
+181,Mirrors,Home Decor,Home Depot,Decorations
+182,Clocks,Home Decor,Home Depot,Decorations
+183,Health,Books,Random House,Non-Fiction
+184,iPad,Electronics,Samsung,Tablet
+185,Travel,Books,Random House,Non-Fiction
+186,Business,Books,HarperCollins,Non-Fiction
+187,Energy drink,Grocery,Pepsi,Soft Drink
+188,Bermuda shorts,Clothing,Nike,Shorts
+189,Cooking,Books,HarperCollins,Non-Fiction
+190,A-line dress,Clothing,Zara,Dress
+191,Cranberry juice,Grocery,Pepsi,Juice
+192,Asus ZenPad,Electronics,Apple,Tablet
+193,Scoop neck tee,Clothing,Adidas,T-shirt
+194,Health,Books,Penguin Books,Non-Fiction
+195,Action,Books,HarperCollins,Thriller
+196,Adventure,Books,HarperCollins,Fiction
+197,Henley tee,Clothing,Adidas,T-shirt
+198,Spring water,Grocery,Coca-Cola,Water
+199,Sculptures,Home Decor,Home Depot,Decorations
+200,High heels,Clothing,Adidas,Shoes
+201,Candles,Home Decor,IKEA,Decorations
+202,History,Books,HarperCollins,Non-Fiction
+203,Cola,Grocery,Pepsi,Soft Drink
+204,Nokia,Electronics,Samsung,Smartphone
+205,Microsoft Surface,Electronics,Apple,Tablet
+206,Wardrobe,Home Decor,IKEA,Furniture
+207,Drill,Home Decor,Home Depot,Tools
+208,Huawei P,Electronics,Apple,Smartphone
+209,Blender,Home Decor,Bed Bath & Beyond,Kitchen
+210,Alkaline water,Grocery,Pepsi,Water
+211,Picture frames,Home Decor,Home Depot,Decorations
+212,Button-down shirt,Clothing,Zara,Shirt
+213,Shift dress,Clothing,Zara,Dress
+214,On-ear headphones,Electronics,Sony,Headphones
+215,LG G,Electronics,Samsung,Smartphone
+216,Espadrilles,Clothing,Nike,Shoes
+217,Psychology,Books,Random House,Non-Fiction
+218,T-shirt,Clothing,Zara,Shirt
+219,Blazer,Clothing,Adidas,Jacket
+220,Bookshelf,Home Decor,Home Depot,Furniture
+221,Refrigerator,Home Decor,Bed Bath & Beyond,Kitchen
+222,A-line dress,Clothing,Zara,Dress
+223,Bed,Home Decor,IKEA,Furniture
+224,Truffles,Grocery,Nestle,Chocolate
+225,Bodycon dress,Clothing,Zara,Dress
+226,Cropped jeans,Clothing,Zara,Jeans
+227,TV stand,Home Decor,Home Depot,Furniture
+228,Apple juice,Grocery,Pepsi,Juice
+229,Off-the-shoulder tee,Clothing,Adidas,T-shirt
+230,Plasma TV,Electronics,Sony,Television
+231,Americano,Grocery,Nestle,Coffee
+232,Energy drink,Grocery,Coca-Cola,Soft Drink
+233,Bottled water,Grocery,Coca-Cola,Water
+234,Flavored water,Grocery,Pepsi,Water
+235,Over-ear headphones,Electronics,Sony,Headphones
+236,Khaki shorts,Clothing,Nike,Shorts
+237,Sparkling water,Grocery,Coca-Cola,Water
+238,TV stand,Home Decor,Home Depot,Furniture
+239,Saw,Home Decor,Home Depot,Tools
+240,Blazer,Clothing,Adidas,Jacket
+241,Fantasy,Books,Penguin Books,Fiction
+242,Contemporary literature,Books,Random House,Literature
+243,Coffee maker,Home Decor,Bed Bath & Beyond,Kitchen
+244,Smart TV,Electronics,Samsung,Television
+245,Travel,Books,Random House,Non-Fiction
+246,Chocolate-covered fruits,Grocery,Nestle,Chocolate
+247,Fantasy,Books,Random House,Fiction
+248,Denim jacket,Clothing,Adidas,Jacket
+249,Raglan tee,Clothing,Nike,T-shirt
+250,LCD TV,Electronics,Samsung,Television
+251,LCD TV,Electronics,Samsung,Television
+252,Huawei MediaPad,Electronics,Samsung,Tablet
+253,Nightstand,Home Decor,IKEA,Furniture
+254,Samsung Notebook,Electronics,Apple,Laptop
+255,Romance,Books,HarperCollins,Fiction
+256,Crop top,Clothing,Nike,T-shirt
+257,iPhone,Electronics,Apple,Smartphone
+258,Self-help,Books,HarperCollins,Non-Fiction
+259,Shift dress,Clothing,Zara,Dress
+260,Plasma TV,Electronics,Sony,Television
+261,High heels,Clothing,Adidas,Shoes
+262,Espadrilles,Clothing,Nike,Shoes
+263,White chocolate,Not Provided,Nestle,Chocolate
+264,Vases,Home Decor,IKEA,Decorations
+265,Alkaline water,Grocery,Coca-Cola,Water
+266,Sandals,Clothing,Nike,Shoes
+267,Anthologies,Books,Random House,Literature
+268,Over-ear headphones,Electronics,Sony,Headphones
+269,Affogato,Grocery,Nestle,Coffee
+270,Varsity jacket,Clothing,Adidas,Jacket
+271,iPhone,Electronics,Apple,Smartphone
+272,Picture frames,Home Decor,Home Depot,Decorations
+273,Mattress topper,Home Decor,Bed Bath & Beyond,Bedding
+274,Cream soda,Grocery,Pepsi,Soft Drink
+275,Pliers,Home Decor,Home Depot,Tools
+276,Acer Iconia Tab,Electronics,Apple,Tablet
+277,Stove,Home Decor,Bed Bath & Beyond,Kitchen
+278,Button-down shirt,Clothing,Zara,Shirt
+279,Caulking gun,Home Decor,Home Depot,Tools
+280,Psychological thriller,Books,HarperCollins,Thriller
+281,Bottled water,Grocery,Coca-Cola,Water
+282,Candles,Home Decor,Home Depot,Decorations
+283,History,Books,Random House,Non-Fiction
+284,Amazon Fire Tablet,Electronics,Apple,Tablet
+285,Mineral water,Grocery,Pepsi,Water
+286,Distilled water,Grocery,Pepsi,Water
+287,Acer Swift,Electronics,Apple,Laptop
+288,Science,Books,HarperCollins,Non-Fiction
+289,Grapefruit juice,Grocery,Coca-Cola,Juice
+290,Blazer,Clothing,Adidas,Jacket
+291,HDR TV,Electronics,Sony,Television
+292,Throw pillow,Home Decor,Bed Bath & Beyond,Bedding
+293,iPhone,Electronics,Samsung,Smartphone
+294,Long-sleeve tee,Clothing,Adidas,T-shirt
+295,Health,Books,HarperCollins,Non-Fiction
+296,Bathtub,Home Decor,Bed Bath & Beyond,Bathroom
+297,Over-ear headphones,Electronics,Sony,Headphones
+298,Horror,Books,Penguin Books,Fiction
+299,Candles,Home Decor,IKEA,Decorations
+300,Bootcut jeans,Clothing,Zara,Jeans
+301,Off-the-shoulder tee,Clothing,Nike,T-shirt
+302,Cooking,Books,HarperCollins,Non-Fiction
+303,Grape soda,Grocery,Pepsi,Soft Drink
+304,Games,Books,Penguin Books,Children's
+305,Health,Books,HarperCollins,Non-Fiction
+306,Ginger ale,Grocery,Pepsi,Soft Drink
+307,Chocolate mousse,Grocery,Nestle,Chocolate
+308,Spring water,Grocery,Pepsi,Water
+309,Pomegranate juice,Grocery,Coca-Cola,Juice
+310,Motorola Moto,Electronics,Apple,Smartphone
+311,Sneakers,Clothing,Adidas,Shoes
+312,Lemon-lime soda,Grocery,Coca-Cola,Soft Drink
+313,Straight-leg jeans,Clothing,Zara,Jeans
+314,Skorts,Clothing,Nike,Shorts
+315,Lenovo Tab,Electronics,Samsung,Tablet
+316,Denim shorts,Clothing,Nike,Shorts
+317,Sony Xperia Tablet,Electronics,Apple,Tablet
+318,On-ear headphones,Electronics,Sony,Headphones
+319,Board shorts,Clothing,Nike,Shorts
+320,Crop top,Clothing,Adidas,T-shirt
+321,Psychology,Books,HarperCollins,Non-Fiction
+322,Table lamps,Home Decor,IKEA,Lighting
+323,Drama,Books,Random House,Literature
+324,Sports equipment,Books,Penguin Books,Children's
+325,Lenovo Tab,Electronics,Samsung,Tablet
+326,Cycling shorts,Clothing,Nike,Shorts
+327,Rugs,Home Decor,IKEA,Decorations
+328,LED TV,Electronics,Sony,Television
+329,Fantasy,Books,HarperCollins,Fiction
+330,Dress shirt,Clothing,Zara,Shirt
+331,Grape juice,Grocery,Pepsi,Juice
+332,Adventure,Books,HarperCollins,Fiction
+333,Political thriller,Books,HarperCollins,Thriller
+334,Sports headphones,Electronics,Sony,Headphones
+335,Coffee table,Home Decor,IKEA,Furniture
+336,Crime,Books,HarperCollins,Thriller
+337,Fruit punch,Grocery,Coca-Cola,Soft Drink
+338,Sandals,Clothing,Adidas,Shoes
+339,Dress shirt,Clothing,Zara,Shirt
+340,Decorative pillows,Home Decor,Home Depot,Decorations
+341,Saw,Home Decor,Home Depot,Tools
+342,Crime,Books,HarperCollins,Thriller
+343,Energy drink,Grocery,Pepsi,Soft Drink
+344,Romance,Books,HarperCollins,Fiction
+345,LCD TV,Electronics,Sony,Television
+346,Memoir,Books,Random House,Non-Fiction
+347,Hammer,Home Decor,Home Depot,Tools
+348,TV stand,Home Decor,Home Depot,Furniture
+349,Ceiling lights,Home Decor,IKEA,Lighting
+350,Coffee table,Home Decor,Home Depot,Furniture
+351,Root beer,Grocery,Coca-Cola,Soft Drink
+352,Anthologies,Books,Random House,Literature
+353,Blender,Home Decor,Bed Bath & Beyond,Kitchen
+354,Bomber jacket,Clothing,Adidas,Jacket
+355,Distilled water,Grocery,Pepsi,Water
+356,Travel,Books,Random House,Non-Fiction
+357,Refrigerator,Home Decor,Bed Bath & Beyond,Kitchen
+358,Plain tee,Clothing,Adidas,T-shirt
+359,Dining table,Home Decor,IKEA,Furniture
+360,Boots,Clothing,Nike,Shoes
+361,Drill,Home Decor,Home Depot,Tools
+362,Desk,Home Decor,Home Depot,Furniture
+363,Travel,Books,Penguin Books,Non-Fiction
+364,Curved TV,Electronics,Samsung,Television
+365,Fruit punch,Grocery,Coca-Cola,Soft Drink
+366,Health,Books,Random House,Non-Fiction
+367,Microsoft Surface,Electronics,Samsung,Tablet
+368,Alkaline water,Grocery,Coca-Cola,Water
+369,LG G,Electronics,Samsung,Smartphone
+370,Bookshelf,Home Decor,IKEA,Furniture
+371,Duvet cover,Home Decor,Bed Bath & Beyond,Bedding
+372,Lenovo ThinkPad,Electronics,Apple,Laptop
+373,Chocolate-covered nuts,Grocery,Nestle,Chocolate
+374,Graphic tee,Clothing,Adidas,T-shirt
+375,Grape soda,Grocery,Pepsi,Soft Drink
+376,Grapefruit juice,Grocery,Pepsi,Juice
+377,Pomegranate juice,Grocery,Coca-Cola,Juice
+378,Wall sconces,Home Decor,IKEA,Lighting
+379,Sweatshirt,Clothing,Zara,Shirt
+380,Instant coffee,Grocery,Nestle,Coffee
+381,T-shirt,Clothing,Zara,Shirt
+382,Games,Books,Penguin Books,Children's
+383,Fantasy,Books,Random House,Fiction
+384,Motorola Moto,Electronics,Sony,Smartphone
+385,Anthologies,Books,Random House,Literature
+386,Adventure,Books,HarperCollins,Thriller
+387,Mixed fruit juice,Grocery,Coca-Cola,Juice
+388,Vases,Home Decor,IKEA,Decorations
+389,Stove,Home Decor,Bed Bath & Beyond,Kitchen
+390,iPhone,Electronics,Apple,Smartphone
+391,Nokia,Electronics,Apple,Smartphone
+392,Art supplies,Books,Penguin Books,Children's
+393,Cranberry juice,Grocery,Pepsi,Juice
+394,Orange juice,Grocery,Pepsi,Juice
+395,Google Pixel Slate,Electronics,Samsung,Tablet
+396,Distressed jeans,Clothing,Zara,Jeans
+397,Desk lamps,Home Decor,IKEA,Lighting
+398,Mango juice,Grocery,Coca-Cola,Juice
+399,Refrigerator,Home Decor,Bed Bath & Beyond,Kitchen
+400,Romance,Books,Random House,Fiction
+401,Grapefruit juice,Grocery,Pepsi,Juice
+402,Chocolate-covered fruits,Grocery,Nestle,Chocolate
+403,Thriller,Books,Random House,Fiction
+404,Cooking,Books,Random House,Non-Fiction
+405,Decorative pillows,Home Decor,Home Depot,Decorations
+406,Psychological thriller,Books,HarperCollins,Thriller
+407,Travel,Books,Random House,Non-Fiction
+408,Under cabinet lighting,Home Decor,IKEA,Lighting
+409,Wall art,Home Decor,IKEA,Decorations
+410,Americano,Grocery,Nestle,Coffee
+411,Mirrors,Home Decor,IKEA,Decorations
+412,Bookshelf,Home Decor,Home Depot,Furniture
+413,Bottled water,Grocery,Pepsi,Water
+414,Memoir,Books,HarperCollins,Non-Fiction
+415,Boots,Clothing,Adidas,Shoes
+416,Historical fiction,Books,Random House,Fiction
+417,Soap dispenser,Home Decor,Bed Bath & Beyond,Bathroom
+418,V-neck tee,Clothing,Adidas,T-shirt
+419,Chocolate mousse,Grocery,Nestle,Chocolate
+420,Wardrobe,Home Decor,IKEA,Furniture
+421,Latte,Grocery,Nestle,Coffee
+422,Samsung Galaxy Tab,Electronics,Samsung,Tablet
+423,Travel,Books,Penguin Books,Non-Fiction
+424,Curtains,Home Decor,IKEA,Decorations
+425,Decorative pillows,Home Decor,Home Depot,Decorations
+426,Lemon-lime soda,Grocery,Pepsi,Soft Drink
+427,Tomato juice,Grocery,Pepsi,Juice
+428,Artesian water,Grocery,Pepsi,Water
+429,Pretzels,Grocery,Nestle,Snacks
+430,History,Books,HarperCollins,Non-Fiction
+431,Motorola Moto,Electronics,Apple,Smartphone
+432,Thriller,Books,Random House,Fiction
+433,Caulking gun,Home Decor,Home Depot,Tools
+434,Utility knife,Home Decor,Home Depot,Tools
+435,Samsung Galaxy,Electronics,Apple,Smartphone
+436,Athletic shorts,Clothing,Nike,Shorts
+437,iPhone,Electronics,Apple,Smartphone
+438,Self-help,Not Provided,HarperCollins,Non-Fiction
+439,Asus ZenBook,Electronics,Apple,Laptop
+440,iPad,Electronics,Apple,Tablet
+441,Business,Books,HarperCollins,Non-Fiction
+442,Samsung Galaxy Tab,Electronics,Apple,Tablet
+443,LCD TV,Electronics,Samsung,Television
+444,Wall sconces,Home Decor,IKEA,Lighting
+445,Sweatshirt,Clothing,Zara,Shirt
+446,Off-the-shoulder tee,Clothing,Adidas,T-shirt
+447,Bathtub,Home Decor,Bed Bath & Beyond,Bathroom
+448,OnePlus,Electronics,Samsung,Smartphone
+449,High-waisted jeans,Clothing,Zara,Jeans
+450,Candles,Home Decor,IKEA,Decorations
+451,Self-help,Books,HarperCollins,Non-Fiction
+452,Fruit punch,Grocery,Pepsi,Soft Drink
+453,Cycling shorts,Clothing,Nike,Shorts
+454,Puffer jacket,Clothing,Adidas,Jacket
+455,LG Gram,Electronics,Apple,Laptop
+456,Orange juice,Grocery,Pepsi,Juice
+457,Literary fiction,Books,Random House,Fiction
+458,Wardrobe,Home Decor,Home Depot,Furniture
+459,Cappuccino,Grocery,Nestle,Coffee
+460,Plush toys,Books,Penguin Books,Children's
+461,Slippers,Clothing,Nike,Shoes
+462,Artesian water,Grocery,Pepsi,Water
+463,Pomegranate juice,Grocery,Pepsi,Juice
+464,Fruit punch,Grocery,Coca-Cola,Soft Drink
+465,Art supplies,Books,Penguin Books,Children's
+466,Plasma TV,Electronics,Samsung,Television
+467,Huawei MediaPad,Electronics,Samsung,Tablet
+468,Coffee table,Home Decor,IKEA,Furniture
+469,Crew neck tee,Clothing,Nike,T-shirt
+470,Political thriller,Books,HarperCollins,Thriller
+471,Quilt,Home Decor,Bed Bath & Beyond,Bedding
+472,Off-the-shoulder tee,Clothing,Adidas,T-shirt
+473,Sony Xperia,Electronics,Sony,Smartphone
+474,Pineapple juice,Grocery,Pepsi,Juice
+475,Cola,Grocery,Pepsi,Soft Drink
+476,Distilled water,Grocery,Pepsi,Water
+477,Desk,Home Decor,Home Depot,Furniture
+478,Lenovo ThinkPad,Electronics,Apple,Laptop
+479,Psychological thriller,Books,HarperCollins,Thriller
+480,Techno-thriller,Books,HarperCollins,Thriller
+481,High heels,Clothing,Adidas,Shoes
+482,Truffles,Grocery,Nestle,Chocolate
+483,Microwave,Home Decor,Bed Bath & Beyond,Kitchen
+484,Xiaomi Mi,Electronics,Sony,Smartphone
+485,History,Books,Penguin Books,Non-Fiction
+486,Oxfords,Clothing,Nike,Shoes
+487,V-neck tee,Clothing,Nike,T-shirt
+488,Sony Xperia,Electronics,Sony,Smartphone
+489,T-shirt,Clothing,Zara,Shirt
+490,Bomber jacket,Clothing,Adidas,Jacket
+491,Pineapple juice,Grocery,Coca-Cola,Juice
+492,Shift dress,Clothing,Zara,Dress
+493,Google Pixel Slate,Electronics,Samsung,Tablet
+494,Fruit punch,Grocery,Coca-Cola,Soft Drink
+495,Adventure,Books,Penguin Books,Fiction
+496,Crime,Books,HarperCollins,Thriller
+497,Curtains,Home Decor,Home Depot,Decorations
+498,Sandals,Clothing,Nike,Shoes
+499,iPhone,Electronics,Sony,Smartphone
+500,Coconut water,Grocery,Pepsi,Water
